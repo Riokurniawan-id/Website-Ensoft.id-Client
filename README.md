@@ -19,7 +19,7 @@ Kami mengundang kontribusi dari komunitas. Jika Anda ingin berkontribusi pada pr
 
 ## Kontak
 
-Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi saya melalui email: [gigafive45@gmail.com]
+Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi saya melalui email: [RioKurniawan12378@gmail.com]
 atau DM instagram saya :
 [@riokurniawan_id]
 
