@@ -1,8 +1,26 @@
-# React + Vite
+# Website-Ensoft.id (Client Side)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ini adalah repositori sisi klien untuk berita dariEnsoft.id, yang merupakan situs web Bagian Dari Project Ensoft.id.
+Proyek ini dibangun dengan menggunakan berbagai teknologi front-end modern, dan bertujuan untuk menyediakan pengalaman pengguna yang interaktif, informatif, dan menarik.
 
-Currently, two official plugins are available:
+## Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Tampilan Responsif:** Desain yang responsif memastikan situs web dapat diakses dengan baik di berbagai perangkat.
+- **Navigasi Intuitif:** Navigasi yang mudah digunakan untuk membantu pengguna menemukan informasi dengan cepat.
+- **Kontak dan Formulir:** Memungkinkan pengguna untuk menghubungi saya melalui formulir kontak dan menyediakan informasi kontak yang lengkap.
+- **Blog dan Berita:** Bagian berita dan blog yang dikelola secara dinamis untuk berbagi berita terbaru.
+- **Teknologi Front-End:** Menggunakan teknologi modern seperti React, Redux, CSS3, dan HTML5.
+
+## Kontribusi
+
+Kami mengundang kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan hubungi saya dengan kontak dibawah
+
+## Kontak
+
+Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi saya melalui email: [gigafive45@gmail.com]
+atau DM instagram saya :
+[@riokurniawan_id]
+
+---
+
+© [Rio_Kurniawan] - [2023]
