@@ -3,6 +3,8 @@
 Ini adalah repositori sisi klien untuk berita dariEnsoft.id, yang merupakan situs web Bagian Dari Project Ensoft.id.
 Proyek ini dibangun dengan menggunakan berbagai teknologi front-end modern, dan bertujuan untuk menyediakan pengalaman pengguna yang interaktif, informatif, dan menarik.
 
+- **NOTE:** Untuk Server Side tidak akan saya publikasi di github tapi jika anda punya pertanyaan tentangnya bisa hubungi saya dengan kontak dibawah
+
 ## Fitur Utama
 
 - **Tampilan Responsif:** Desain yang responsif memastikan situs web dapat diakses dengan baik di berbagai perangkat.
