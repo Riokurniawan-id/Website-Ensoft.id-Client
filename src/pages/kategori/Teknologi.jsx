@@ -1,10 +1,25 @@
 import Layout from "../../layout/Layout";
+import Content from "../../components/ContentBerita";
+import { useState, useEffect } from "react";
+import api from "../api/api";
 
 const Teknologi = () => {
+  const [contents, setContents] = useState([]);
+
+  const fetchContent = async () => {
+    const response = await api.get("/content/teknologi");
+    const data = await response.data.payload;
+    setContents(data);
+  };
+
+  useEffect(() => {
+    fetchContent();
+  }, []);
+
   return (
     <>
       <Layout>
-        <h1>Hello Teknologi</h1>
+        <Content contents={contents} />
       </Layout>
     </>
   );

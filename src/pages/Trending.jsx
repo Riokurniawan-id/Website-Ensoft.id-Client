@@ -1,10 +1,13 @@
+import ComingSoon from "../components/ComingSoon";
 import Layout from "../layout/Layout";
 
 const Trending = () => {
   return (
     <>
       <Layout>
-        <h1>Hello Trending</h1>
+        <div className="flex justify-center self-center flex-wrap content-center">
+          <ComingSoon />
+        </div>
       </Layout>
     </>
   );
