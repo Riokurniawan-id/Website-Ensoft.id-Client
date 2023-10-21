@@ -5,6 +5,8 @@ Proyek ini dibangun dengan menggunakan berbagai teknologi front-end modern, dan 
 
 - **NOTE:** Untuk Server Side tidak akan saya publikasi di github tapi jika anda punya pertanyaan tentangnya bisa hubungi saya di bagian [**Kontak**](#Kontak)
 
+![img1](https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg)
+
 ---
 
 ## Fitur Utama
