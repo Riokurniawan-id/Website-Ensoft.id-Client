@@ -6,14 +6,14 @@ Proyek ini dibangun dengan menggunakan berbagai teknologi front-end modern, dan 
 - **NOTE:** Untuk Server Side tidak akan saya publikasi di github tapi jika anda punya pertanyaan tentangnya bisa hubungi saya di bagian [**Kontak**](#Kontak)
 
 <p align="center">
-  <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg" alt="Gambar 1" width="50%">
-  <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="50%">
+  <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg" alt="Gambar 1" width="40%">
+  <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="40%">
 </p>
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg" alt="Gambar 1" width="40%"></td>
-    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="40%"></td>
+    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg" alt="Gambar 1" width="100%"></td>
+    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="100%"></td>
   </tr>
 </table>
 
