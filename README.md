@@ -10,12 +10,12 @@ Proyek ini dibangun dengan menggunakan berbagai teknologi front-end modern, dan 
   <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="50%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="200" height="150">
-</p>
-
-![img1](https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg){:width="50%"}
-![img1](https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg){:width="50%"}
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/1.jpg" alt="Gambar 1" width="40%"></td>
+    <td align="center"><img src="https://github.com/Riokurniawan-id/Website-Ensoft.id-Client/blob/main/src/assets/2.jpg" alt="Gambar 2" width="40%"></td>
+  </tr>
+</table>
 
 ---
 
